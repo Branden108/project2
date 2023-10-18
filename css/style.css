@@ -1,14 +1,14 @@
-#main-navbar {
+#main-nav {
   background-color: #a6a6a6;
   overflow: hidden;
 }
 
-#navbar-container {
+#nav-container {
   float: left;
   width: 100%;
   position: relative;
 }
-#main-navbar ul {
+#main-nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -17,14 +17,14 @@
   float: left;
 }
 
-#main-navbar ul li {
+#main-nav ul li {
   float: left;
   right: 50%;
   display: block;
   position: relative;
 }
 
-#main-navbar ul li a {
+#main-nav ul li a {
   display: block;
   text-decoration: none;
   font-family: 'Arvo', cursive;
@@ -35,11 +35,11 @@
   padding: 10px 20px;
 }
 
-#main-navbar ul li a:hover {
+#main-nav ul li a:hover {
   text-decoration: underline;
 }
 
-#onpage {
+#current {
   text-decoration: underline;
 }
 
@@ -59,16 +59,6 @@
 h1, h2, h3 {
   font-family: 'Arvo', cursive;
   font-size: 30px;
-} 
-
-#footer {
-  clear: left;
-  background-color: #34568B;
-  font-size: 18px;
-  padding: 10px 20px;
-  color: black;	
-  font-family: 'Arvo', cursive;
-  text-align: left;
 }
 
 .img {
