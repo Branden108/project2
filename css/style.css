@@ -20,6 +20,10 @@
   text-decoration: none;
 }
 
+#no-bullets {
+    list-style-type: none;
+}
+
 #main-nav ul li {
   float: left;
   right: 50%;
