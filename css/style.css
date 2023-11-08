@@ -1,12 +1,14 @@
 #main-nav {
   background-color: #a6a6a6;
   overflow: hidden;
+  text-decoration: none;
 }
 
 #nav-container {
   float: left;
   width: 100%;
   position: relative;
+  text-decoration: none;
 }
 #main-nav ul {
   list-style-type: none;
@@ -15,6 +17,7 @@
   position: relative;
   left: 50%;
   float: left;
+  text-decoration: none;
 }
 
 #main-nav ul li {
@@ -22,6 +25,7 @@
   right: 50%;
   display: block;
   position: relative;
+  text-decoration: none;
 }
 
 #main-nav ul li a {
@@ -37,6 +41,7 @@
 
 #main-nav ul li a:hover {
   text-decoration: underline;
+  text-decoration: none;
 }
 
 #current {
