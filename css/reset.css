@@ -12,6 +12,10 @@ main {
   display: block;
 }
 
+ul {
+  list-style-type: none;
+}
+
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
